@@ -1,6 +1,6 @@
 # Mock Server APIs
 
-This repo is provide a very easy way to bring up a mock/stub server API to accelerate your development.
+This repo provides a very easy way to bring up a mock/stub server API to accelerate your development.
 
 ## References
 
